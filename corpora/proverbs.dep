@@ -1,6 +1,6 @@
 # sent_id = proverbs:1
 # text = Жип кессең - узун кес, кеп салсаң - кыска сал.
-# text_en = If you cut a thread, cut it long; if you make a speech, make it short.
+# text_en = If you cut a thread, cut it long; if you make a speech, make it short
 # label = JNW_checked
 "<Жип>"
 	"жип" n nom @obj #1->2
